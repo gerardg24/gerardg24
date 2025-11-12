@@ -17,7 +17,7 @@
 
 ---
 
-- 👨‍💻 As an Video game design and development, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As an Video game design and development student, I'm constantly learning and exploring new technologies to improve my skills.
 
 ## 🛠 &nbsp;Tech Stack
 
